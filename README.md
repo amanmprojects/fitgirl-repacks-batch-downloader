@@ -62,7 +62,7 @@ python script.py https://fitgirl-repacks.site/game-name --browser chrome --downl
 
 ## Important Note
 
-This tool is for educational purposes only. Users should consider bandwidth limitations and website terms of service. Whether to use this tool is up to individual discretion and responsibility.
+This tool is for educational purposes only. Users should consider bandwidth limitations and website terms of service. Whether to use this tool as well as [Fitgirl Repacks](https://fitgirl-repacks.site) is up to individual discretion and responsibility.
 
 ## License
 
