@@ -36,12 +36,12 @@ The script requires:
 
 Basic usage:
 ```bash
-python download_from_links.py <url> 
+python script.py <url> 
 ```
 
 Full options:
 ```bash
-python download_from_links.py <url> [--browser edge|chrome] [--concurrent N] [--download-dir DIR] [--batch-size N]
+python script.py <url> [--browser edge|chrome] [--concurrent N] [--download-dir DIR] [--batch-size N]
 ```
 
 Arguments:
@@ -57,7 +57,7 @@ url
 
 Example:
 ```bash
-python download_from_links.py https://fitgirl-repacks.site/game-name --browser chrome --download-dir D:\Downloads --batch-size 10
+python script.py https://fitgirl-repacks.site/game-name --browser chrome --download-dir D:\Downloads --batch-size 10
 ```
 
 ## Important Note
