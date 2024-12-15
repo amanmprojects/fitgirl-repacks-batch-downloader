@@ -1,6 +1,7 @@
 # Fitgirl Repacks Batch Downloader
 
-A Python script to automate downloading multiple parts from Fitgirl Repacks using Selenium WebDriver.
+A Simple Python script to automate downloading multiple parts from Fitgirl Repacks using Selenium WebDriver.
+This is just a fun project, I would personally recommend using [JDownloader2](https://jdownloader.org/jdownloader2) instead.
 
 ## Why This Exists
 
@@ -12,6 +13,10 @@ When downloading large games from Fitgirl Repacks that are split into multiple p
 4. Repeat for every single part
 
 This script automates this process by handling multiple downloads in batches.
+
+## Have I actually used this?
+
+Yes, to download RDR2 😋.
 
 ## Features
 
