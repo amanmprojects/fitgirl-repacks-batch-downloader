@@ -1,7 +1,7 @@
 # Fitgirl Repacks Batch Downloader
 
 A Simple Python script to automate downloading multiple parts from Fitgirl Repacks using Selenium WebDriver.
-This is just a fun project, I would personally recommend using [JDownloader2](https://jdownloader.org/jdownloader2) instead.
+This is just a fun project, I would personally recommend using [JDownloader2](https://jdownloader.org/jdownloader2) instead, if you seriously want to have a better and more reliable experience.
 
 ## Why This Exists
 
